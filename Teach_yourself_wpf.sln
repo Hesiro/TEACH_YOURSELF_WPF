@@ -9,13 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FontViewer", "FontViewer\Fo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hour04", "Hour04", "{22189A81-5E6A-482F-9C23-54DA00A40B6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlignmentAndMargin", "AlignmentAndMargin\AlignmentAndMargin.csproj", "{D97A1CC5-A7DD-4D94-8638-C468DA5AE596}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlignmentAndMargin", "AlignmentAndMargin\AlignmentAndMargin.csproj", "{D97A1CC5-A7DD-4D94-8638-C468DA5AE596}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseAGrid", "UseAGrid\UseAGrid.csproj", "{DB013065-FF37-4A1C-9719-2C0B586B6E36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UseAGrid", "UseAGrid\UseAGrid.csproj", "{DB013065-FF37-4A1C-9719-2C0B586B6E36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingDecorators", "UsingDecorators\UsingDecorators.csproj", "{9086AD0D-CE4D-48D2-8043-1D15539474BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingDecorators", "UsingDecorators\UsingDecorators.csproj", "{9086AD0D-CE4D-48D2-8043-1D15539474BF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hour05", "Hour05", "{0B02AA24-548E-4686-B161-32D3655DB797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleContactForm", "SimpleContactForm\SimpleContactForm.csproj", "{E7C8A7F3-63EA-407B-B8D6-0AD49AAFCC16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hour06", "Hour06", "{273B1642-C6E4-4F8D-96A7-C276AA38D98D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,10 @@ Global
 		{9086AD0D-CE4D-48D2-8043-1D15539474BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9086AD0D-CE4D-48D2-8043-1D15539474BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9086AD0D-CE4D-48D2-8043-1D15539474BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C8A7F3-63EA-407B-B8D6-0AD49AAFCC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C8A7F3-63EA-407B-B8D6-0AD49AAFCC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C8A7F3-63EA-407B-B8D6-0AD49AAFCC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C8A7F3-63EA-407B-B8D6-0AD49AAFCC16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +56,7 @@ Global
 		{D97A1CC5-A7DD-4D94-8638-C468DA5AE596} = {22189A81-5E6A-482F-9C23-54DA00A40B6C}
 		{DB013065-FF37-4A1C-9719-2C0B586B6E36} = {22189A81-5E6A-482F-9C23-54DA00A40B6C}
 		{9086AD0D-CE4D-48D2-8043-1D15539474BF} = {22189A81-5E6A-482F-9C23-54DA00A40B6C}
+		{E7C8A7F3-63EA-407B-B8D6-0AD49AAFCC16} = {0B02AA24-548E-4686-B161-32D3655DB797}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9DFB3430-0CC6-40A2-B0C8-51AF11165F59}

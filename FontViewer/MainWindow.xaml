@@ -16,8 +16,12 @@
                 Margin="0 0 0 8">
             <TextBlock FontSize="14"
                        TextWrapping="Wrap">
-                Select a font to view from the list below.
-                You can change the text by typing in the region at the bottom.
+                <Bold><Italic>Instructions:</Italic></Bold>
+                <LineBreak/>
+                Select a <Underline>font</Underline> to view from the list <Italic>below</Italic>.
+                <Span FontSize="10">
+                    You can change the text by typing in the region at the bottom.
+                </Span>                
             </TextBlock>
         </Border>
         <ListBox x:Name="FontList"
